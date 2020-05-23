@@ -5,3 +5,4 @@
 <h3> Modified by me udvansh</h3>
 <h3> fully automated using ansible docker with poll scm </h3>
 <h4> Manyam kushwant </h4>
+<h4>it will remove exiting con and docker images and then triggers with new build artifacts in ansible sever</h4>
